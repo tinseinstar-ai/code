@@ -15,7 +15,7 @@ import numpy as np
 from telebot.async_telebot import AsyncTeleBot
 
 # --- Configuration ---
-BOT_TOKEN = '8930234284:AAGpCokiwrdXKzWm2lcQ15oxg-7_sQtsjrw'
+BOT_TOKEN = '7667511316:AAHY7r1_If9RND1FPJNgGF8S6DVEC-hmNRA'
 
 bot = AsyncTeleBot(BOT_TOKEN)
 
